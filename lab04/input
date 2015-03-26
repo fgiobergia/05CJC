@@ -1,0 +1,4 @@
+ls -laR ..
+less a.c
+mkdir test
+cp a.c test/
